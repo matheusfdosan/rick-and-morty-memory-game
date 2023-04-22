@@ -20,5 +20,5 @@ form.addEventListener("submit", (event) => {
   localStorage.setItem("playerName", playerName)
 
   // Redirecionando para a página do Jogo
-  window.location = "../pages/game.html"
+  window.location = "pages/game.html"
 })
