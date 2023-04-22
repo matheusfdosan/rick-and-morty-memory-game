@@ -74,10 +74,9 @@ header {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: fit-content;
-  line-height: 70px;
-  letter-spacing: 2px;
-  font-size: 3rem;
+  width: 90%;
+  line-height: 30px;
+  font-size: 1rem;
   padding: 30px 40px;
   border-radius: 15px;
   background: #fff;
