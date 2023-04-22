@@ -76,7 +76,7 @@ function checkCards() {
 
       firstCard = ""
       secondCard = ""
-    }, 1000)
+    }, 500)
   }
 }
 
