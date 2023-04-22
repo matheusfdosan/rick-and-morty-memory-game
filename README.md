@@ -30,6 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
+Um projetinho bem legal, desenvolvido por conta desse [vídeo](https://www.youtube.com/playlist?list=PLdtmpu_1ITQJJoH-5D0sU2Q2N0wwgPGCi) do [Manual do Dev](https://www.youtube.com/@ManualdoDev)
+
 Dê uma olhada no projeto clicando nesse [link](https://matheusfdosan.github.io/rick-and-morty-memory-game/).
 
 ## Contato
