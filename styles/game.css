@@ -1,13 +1,14 @@
 html {
-  height: 100vh;
-}
-
-body {
   background-image: url(../images/bg.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 100%;
+  height: fit-content;
+}
+
+body {
+  height: fit-content;
+
 }
 
 main {
@@ -89,4 +90,14 @@ header {
 .disable-card {
   filter: grayscale();
   opacity: 0.5;
+}
+
+@media (max-width: 450px) {
+  html {
+    height: 100vh;
+  }
+
+  header {
+    font-size: .9rem;
+  }
 }
